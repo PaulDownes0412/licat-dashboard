@@ -1,0 +1,9 @@
+# Raw API download files (data is already embedded in licat_dashboard.html)
+licat_data.json
+licat_records.json
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
